@@ -135,9 +135,9 @@ If you have any feedback, please reach out to us at cepheo00@gmail.com
 
 - [@tasneemkhaled](https://github.com/Tasneem-Elamary)
 - [@hadeerkhaled](https://github.com/hadeer-khaled)
-- [@nouranMuhammed](https://github.com/Nouran-Muhammad)
+- [@nouranmuhammed](https://github.com/Nouran-Muhammad)
 - [@Lailahamdy](https://github.com/lailahamdy)
-- [@nadaAhmed](https://github.com/NadaElmasry)
+- [@nadaahmed](https://github.com/NadaElmasry)
 - [@marwahelmy](https://github.com/MarwaHelmy999)
 - [@hanaasalah](https://github.com/hanaa-salah)
 - [@nadaabdelrahman](https://github.com/nadapopp)
